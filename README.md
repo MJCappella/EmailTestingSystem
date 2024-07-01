@@ -5,7 +5,7 @@ This is a system that mimics the email sending functionality of a system. The sy
 <h1>Setup</h1>
 <p>Basic requirements to run the aplication:</p>
 <ul>
-  <li>PhP v7.x.x</li>
+  <li>PhP V7+/li>
   <li>Laravel 8.x.x</li>
   <li>Composer <any version></li>
 </ul>
