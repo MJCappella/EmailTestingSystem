@@ -12,7 +12,7 @@ This is a system that mimics the email sending functionality of a system. The sy
 
 <p>Run the project using the commands below</p>
 <ul>
-  <li>php artisan migrate</li>
-  <li>php artisan serve</li>
+  <li>php artisan migrate - to create the tables</li>
+  <li>php artisan serve - to setup the development server</li>
   <li>access the website from http://127.0.0.1:8000</li>
 </ul>
