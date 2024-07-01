@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 # EmailTestingSystem
-This is a system that mimics the email sending functionality of a system. The system has a form with which a user inputs the email address of the recepient and send a message. The details of the message sent are logged in a database within a table called email_logs and the relevant data stored in the respective table columns.<br>
+This is a system that mimics the email sending functionality of a system. The system has a form with which a user inputs an email address of the recepient and send a message. The details of the message sent are logged in a database within a table called email_logs and the relevant data stored in the respective table columns.<br>
 <h1>Setup</h1>
 <p>To setup your environment to run the system make sure you have the following requirements:</p>
 <ul>
