@@ -3,7 +3,7 @@
 # EmailTestingSystem
 This is a system that mimics the email sending functionality of a system. The system has a form with which a user inputs an email address of the recepient and a button to send a message. The details of the message sent are logged in a database within a table called email_logs and the status of the email i.e failed or successful stored in respective columns.<br>
 <h1>Setup</h1>
-<p>To setup your environment to run the system make sure you have the following requirements:</p>
+<p>Basic requirements to run the aplication:</p>
 <ul>
   <li>PhP v7.x.x</li>
   <li>Laravel 8.x.x</li>
