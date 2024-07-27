@@ -16,3 +16,5 @@ This is a system that mimics the email sending functionality of a system. The sy
   <li>php artisan serve - to setup the development server</li>
   <li>access the website from http://127.0.0.1:8000</li>
 </ul>
+
+Contributions are always welcome.
